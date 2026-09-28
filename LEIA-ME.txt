@@ -1,0 +1,8 @@
+Atividades da aula 4 - Desenvolvimento Web 2
+
+Contém as três práticas dos slides 5, 9 e 12.
+
+Para executar, tenha PHP instalado. No terminal, entre nesta pasta e rode:
+php -S localhost:8000
+
+Depois abra http://localhost:8000 no navegador.
